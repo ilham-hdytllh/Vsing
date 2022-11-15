@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "223059417666",
+    "firebase_url": "https://dbvsing-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dbvsing",
+    "storage_bucket": "dbvsing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223059417666:android:61e70e905729e0a82cabdb",
+        "android_client_info": {
+          "package_name": "com.example.vsing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223059417666-n1eih9bhpjer7rkeghbf04pp5gamd0fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1N-3PpNWzZRkQcHQKlXoeyI_WNKj0Y7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223059417666-n1eih9bhpjer7rkeghbf04pp5gamd0fa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "223059417666-7fdtdjd2fopufg7i4vqjkthqk34qhgof.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.test1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
